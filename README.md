@@ -1,2 +1,2 @@
 # hello-world
-my first repository on GitHub
+输出hello world.
